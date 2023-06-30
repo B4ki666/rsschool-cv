@@ -1,3 +1,15 @@
 # Sysolyatin Ivan
-![Photo](https://resizer.mail.ru/p/e1dff123-404f-59de-9dfe-7d698741eb09/AAACwWUQHtB33E8vWjaex80sqyv7e4urmafZrqMtS0oADcbrBksot37cz1of6vRcLMB6FzoaNcUBjh8OpxfvWPLTx3g.jpg)
+<img src="https://kinolexx.ru/files/film/2017/9/5/39468/kiber-gorod-edo-808-003.jpg" width="300" height="200" />
+<!-- ![Photo](https://kinolexx.ru/files/film/2017/9/5/39468/kiber-gorod-edo-808-003.jpg) -->
 ## student the rolling scopes school
+
+## Contacts:
+telegram: [@B4ki666](https://t.me/B4ki666) <br> email: vanomsn@gmail.com <br> github: [B4ki666](https://github.com/B4ki666) <br> discord: Ivan Sys(@B4ki666)
+
+## About me:
+My goal is to start a career junior front-end developer and develop in this area. At the moment I work as a specialist in the customer service center of an Internet provider company.
+## Scills:
+* HTML & CSS 
+* Java script (the basic)
+* Figma
+* BEM methodology
