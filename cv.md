@@ -1,6 +1,5 @@
 # Sysolyatin Ivan
 <img src="https://kinolexx.ru/files/film/2017/9/5/39468/kiber-gorod-edo-808-003.jpg" width="300" height="200" />
-<!-- ![Photo](https://kinolexx.ru/files/film/2017/9/5/39468/kiber-gorod-edo-808-003.jpg) -->
 
 ## student the rolling scopes school
 
