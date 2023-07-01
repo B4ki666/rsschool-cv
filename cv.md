@@ -13,3 +13,5 @@ My goal is to start a career junior front-end developer and develop in this area
 * Java script (the basic)
 * Figma
 * BEM methodology
+
+## Code examples:
