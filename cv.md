@@ -7,7 +7,7 @@
 telegram: [@B4ki666](https://t.me/B4ki666) <br> email: vanomsn@gmail.com <br> github: [B4ki666](https://github.com/B4ki666) <br> discord: Ivan Sys(@B4ki666)
 
 ## About me:
-My goal is to start a career junior front-end developer and develop in this area. At the moment I work as a specialist in the customer service center of an Internet provider company.
+I like to study and learn something new. I like to read books, do physical education, listen to music of different genres. I'm fond of good cars and bikes. I lead an active and healthy lifestyle. I like to work and see the results of my work. Since childhood, I have had a predisposition to work with electronics and computers. I like to disassemble, assemble and configure something. I can build, configure, solve problems with computers. My goal is to start a career junior front-end developer and develop in this area.
 ## Scills:
 * HTML & CSS 
 * Java script (the basic)
